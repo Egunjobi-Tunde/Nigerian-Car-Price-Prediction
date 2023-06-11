@@ -1,6 +1,9 @@
 
 ## Predicting Car Prices: A Data-driven Approach
 
+![image](https://github.com/Egunjobi-Tunde/Nigerian-Car-Price-Prediction/assets/105982006/f5f02fa2-c6cb-4d9c-a675-09a25b90f532)
+
+
 **Introduction:**
 When it comes to buying or selling a car, accurately estimating its price is crucial. To simplify this process and provide reliable price predictions, we have developed a car price prediction system using machine learning. This innovative solution leverages advanced algorithms and a comprehensive dataset to help users estimate the value of a vehicle based on its characteristics.
 
